@@ -83,4 +83,3 @@ mac或者其他unix系统需要在终端中输入：
 
 2020-12-05 v1.0
 @copyright Llane00
-https://github.com/Llane00/excel-data-process
